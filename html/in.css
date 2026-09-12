@@ -51,7 +51,7 @@ h2 {
 }
 
 #bubu{
-text-align: justify;
-word-spacing: 600px;
-
+    width: 100%;
+    text-align: right;
+    
 }
