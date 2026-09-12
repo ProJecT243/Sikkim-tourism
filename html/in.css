@@ -24,6 +24,7 @@ th {
 h1 {
     color: rgb(125, 101, 223);
     font-size: 42px;
+    text-align: center;
 }
 
 h2 {
@@ -47,4 +48,10 @@ h2 {
 
 .vision-box {
     border-color: #c084fc;
+}
+
+#bubu{
+text-align: justify;
+word-spacing: 600px;
+
 }
