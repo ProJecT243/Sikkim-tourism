@@ -25,6 +25,7 @@ h1 {
     color: rgb(125, 101, 223);
     font-size: 42px;
     text-align: center;
+    text-decoration:underline;
 }
 
 h2 {
@@ -50,8 +51,37 @@ h2 {
     border-color: #c084fc;
 }
 
-#bubu{
+#bubu {
     width: 100%;
+   
+ 
+}
+
+#book {
+    width: 40%;
+    text-align: left;
+     border: 4px solid 
+}
+
+#vid {
+    text-align: left;
+    width:contant;
+    border: 4px solid 
+
+}
+
+#about {
     text-align: right;
-    
+   
+   width: 90px;
+    border: 4px solid 
+
+}
+
+#contact {
+ 
+    text-align: right;
+     width: 90px;
+    border: 4px solid;
+    margin: 0px; 
 }
