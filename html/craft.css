@@ -1,0 +1,14 @@
+*{
+  color: white;
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 10vh;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
