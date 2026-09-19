@@ -1,11 +1,18 @@
-*{
- color: white;
- background-color: black;
+body {
+    background-image: url("b.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
-h1{
+
+h1 {
     color: aqua;
-    text-align:center;
-}
-#p1{
     text-align: center;
+}
+
+#p1 {
+    text-align: center;
+    color:aliceblue;
+    font-size:22px;
 }
