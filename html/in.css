@@ -1,6 +1,7 @@
 * {
     color: white;
     font-family: "Times New Roman", serif;
+    background-color: black;
 }
 
 th {
@@ -19,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color: green;
+    color: rgb(9, 187, 9);
 }
 
 .mission-vision {
